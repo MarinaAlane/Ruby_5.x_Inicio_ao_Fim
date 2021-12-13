@@ -46,3 +46,14 @@ dolar = 3.20
 convertido = 20 * 3.20.to_f
 
 puts reais.to_s + " convertido em dólar dá o total de" + convertido.to_s
+
+# Nesse script, realize, pelo menos, uma operação com cada um dos operadores aritméticos apresentados.
+n1 = 4
+n2 = 5
+
+puts n1 + n2
+puts n1 * n2
+puts n1 - n2
+puts n1 / n2
+puts n1 % n2
+puts n1 ** n2
