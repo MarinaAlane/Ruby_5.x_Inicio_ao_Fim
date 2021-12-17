@@ -23,3 +23,8 @@ puts p1.falar
 
 p2 = Pessoa.new("Marina")
 puts p2.imprimir_nome
+
+# Variável de instância existem apenas na instância do objeto, ou seja, cada obj possui seus
+#   proprios valores em tais variaveis. 
+
+#   As variáveis de instância tem um @ na frente 
