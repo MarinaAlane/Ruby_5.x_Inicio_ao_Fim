@@ -57,3 +57,10 @@ puts n1 - n2
 puts n1 / n2
 puts n1 % n2
 puts n1 ** n2
+
+
+# Escreva um programa que encontre a soma de todos os números de 1 a num.
+# O número será sempre um número inteiro positivo maior que 0.
+def summation(num)
+  puts (1..num).sum
+end
